@@ -1,2 +1,2 @@
 # my-aclouguru-portfolio
-This is my portfolio for acloudguru portfolio course
+This is my portfolio for acloudguru portfolio course.
