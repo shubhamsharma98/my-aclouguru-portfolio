@@ -6,4 +6,6 @@ This is my portfolio for acloudguru portfolio course.
 * Brew
 * Git and Github
 * SSH
+* HTML
+* CSS
 
