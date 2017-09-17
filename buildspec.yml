@@ -8,9 +8,11 @@ phases:
 artifacts:
   files:
     - index.html
+    - react.html
     - favicon.ico
     - README.md
     - styles/main.css
     - images/*
+    - js/*
 
 
