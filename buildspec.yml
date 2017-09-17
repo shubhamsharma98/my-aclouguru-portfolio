@@ -1,0 +1,16 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo buildspec.yml building our code
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - README.md
+    - styles/main.css
+    - images/*
+
+
