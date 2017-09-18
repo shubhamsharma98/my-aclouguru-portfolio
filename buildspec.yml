@@ -3,8 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo buildspec.yml building our code
-
+      - npm install
+      - npm run webpack
 artifacts:
   files:
     - index.html
@@ -14,5 +14,4 @@ artifacts:
     - styles/main.css
     - images/*
     - js/*
-
-
+    - dist/bundle.js

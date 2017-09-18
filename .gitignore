@@ -59,4 +59,5 @@ typings/
 
 # Others
 .DS_Store
+dist
 
