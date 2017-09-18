@@ -8,4 +8,12 @@ This is my portfolio for acloudguru portfolio course.
 * SSH
 * HTML
 * CSS
+* Babel
+* React
+* Chai
+* Mocha
+* NPM
+* Webpack
+* AWS CodeBuild
+* AWS CodePipeline
 
