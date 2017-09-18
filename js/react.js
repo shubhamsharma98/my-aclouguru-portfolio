@@ -27,7 +27,7 @@ class NameInput extends React.Component {
 		return (
 			<div>
 				<label>Name: <input ref="nameInput" type="text" /></label>
-				<button onClick={this.buttonClicked}>ClickMe</button>
+				<button id="inputButton" onClick={this.buttonClicked}>ClickMe</button>
 				<MessageBox type={msg.type} message1={msg.body}/>
 			</div>
 		)
