@@ -1,3 +1,5 @@
+//npm run webpack-watch
+
 const path = require('path');
 
 module.exports = {
