@@ -34,7 +34,7 @@ class NameInput extends React.Component {
 			</div>
 		)
 	}
-} //NameInput:classEND:
+} //NameInput:classEND
 
 class MessageBox extends React.Component {
 	render() {
@@ -44,6 +44,6 @@ class MessageBox extends React.Component {
 			</div>
 		)
 	}
-} //MessageBox:classEND:
+} //MessageBox:classEND
 
 ReactDOM.render(<NameInput />, document.getElementById('content')); 
